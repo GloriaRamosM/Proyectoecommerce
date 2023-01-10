@@ -1,3 +1,63 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
 
+.navColorbg {
+  background-color: black;
+}
+
+.navLinkPropio {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.linkA {
+  color: yellow;
+}
+
+.linkA:hover {
+  color: blueviolet;
+}
+
+.navBarPropio {
+  gap: 80px;
+}
+
+.pNav {
+  display: flex;
+  justify-content: center;
+}
+
+.bgIndex {
+  background-color: black;
+  /*
+  background-image: url(../imagenes/bgindex.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
+}
+
+.encabezado {
+  text-align: center;
+  color: grey;
+}
+
+.bgarma {
+  background-color: black;
+}
+
+.bgquienessomos {
+  background-color: black;
+}
+
+.bggaleria {
+  background-color: black;
+}
+
+.bgpagayenvia {
+  background-color: black;
+}
 
 /*# sourceMappingURL=estilos.css.map */

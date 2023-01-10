@@ -1,0 +1,35 @@
+//barra de navegacion//
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.navColorbg{
+    background-color: black;
+}
+
+.navLinkPropio{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.linkA{
+    color: yellow;
+}
+
+.linkA:hover{
+    color: blueviolet ;
+}
+
+
+
+.navBarPropio{
+    
+    gap: 80px;
+}
+.pNav{
+    display: flex;
+    justify-content: center;
+   
+}
